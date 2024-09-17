@@ -5,7 +5,7 @@ import time
 from io import StringIO  # This will help address the FutureWarning
 
 # List of years to scrape data for, starting from 2024 to 2023
-years = list(range(2024, 2022, -1))
+years = list(range(2022, 2020, -1))
 
 # URL for Premier League Stats (starting point)
 standings_url = "https://fbref.com/en/comps/9/Premier-League-Stats"
