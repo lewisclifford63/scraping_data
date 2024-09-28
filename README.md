@@ -19,5 +19,5 @@ This Python script scrapes and compiles match data for Premier League teams from
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/lewisclifford63/scraping_data.git
+   cd scraping_data
