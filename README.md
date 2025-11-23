@@ -2,11 +2,6 @@
 
 This Python script scrapes and compiles match data for Premier League teams from [FBRef](https://fbref.com) for the seasons 2022-2023. The script collects match results, team performance statistics, and shooting data for all teams in the selected seasons.
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-
 ## Features
 
 - Scrapes match data, team performance stats, and shooting statistics for Premier League teams.
